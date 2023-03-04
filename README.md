@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patriksaputraa
 - 👀 I’m interested in anything
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, JavaFX, C++, Python and Front End Web Development
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me shut up
 
